@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 My name is Adam Hadi and I am a student at Hyllie Park Folk High School in Sweden. I've been a gamer all my life and now for a change am looking to pivot into game development, using the knowledge I have from playing multiple games from varying genres. 
+I am currently learning C++ and coding some games in Roblox using its own modified version of Lua called Luau just to rack up some experience.
 
 <!--
 **imash3s/imash3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
